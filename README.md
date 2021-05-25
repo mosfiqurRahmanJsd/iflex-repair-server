@@ -4,7 +4,7 @@ Quick Mobile Help for
 All Kind of Phones
 
 Runs the app in the development mode.\
-Open [https://iflex-repair.web.app](https://iflex-repair.web.app) to view it in the browser.
+Open [https://young-hollows-94720.herokuapp.com](https://young-hollows-94720.herokuapp.com/) to view it in the browser.
 
 * 6-7 section add to homepage
 * service hover animation
